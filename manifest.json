@@ -1,0 +1,9 @@
+{
+	"id": "banner-writer",
+	"name": "Banner Writer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Write with Minecraft banners. Made for the Clongcraft Minecraft server.",
+	"author": "data_corrupted_",
+	"isDesktopOnly": false
+}
